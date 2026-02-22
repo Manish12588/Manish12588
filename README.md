@@ -62,7 +62,7 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 
 ---
 
-## 🚀 DevOps Learning Projects
+## 🚀 DevOps Learning Projects (In Progress ....)
 
 > The following projects have been developed as part of my structured DevOps learning journey.  
 > They reflect practical, hands-on exploration and continue to evolve as my knowledge deepens.
@@ -77,7 +77,7 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 
 ---
 
-## 🏗️ Automation Testing Projects
+## 🏗️ Automation Testing Projects (In Progress ....)
 
 > Selected projects demonstrating test automation framework design and implementation.
 
