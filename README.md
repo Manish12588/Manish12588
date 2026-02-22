@@ -50,14 +50,15 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 
 ## 📊 Areas of Expertise
 
-| Domain | Proficiency | Experience |
-|--------|------------|------------|
-| UI Test Automation (Selenium / Playwright) | ⭐⭐⭐⭐⭐ Expert | 13+ Years |
-| API Testing (Rest Assured / Postman) | ⭐⭐⭐⭐⭐ Expert | 10+ Years |
-| BDD Frameworks (Cucumber) | ⭐⭐⭐⭐⭐ Expert | 8+ Years |
-| Test Framework Design & Architecture | ⭐⭐⭐⭐⭐ Expert | 10+ Years |
-| CI/CD Integration for Test Pipelines | ⭐⭐⭐⭐☆ Advanced | 5+ Years |
-| DevOps Tooling & Infrastructure | ⭐⭐⭐☆☆ Learning | Active |
+| Domain                                     | Proficiency    | Experience |
+| ------------------------------------------ | -------------- | ---------- |
+| Functional Testing                         | ⭐⭐⭐⭐⭐ Expert   | 13+ Years  |
+| UI Test Automation (Selenium / Playwright) | ⭐⭐⭐⭐⭐ Expert   | 5+ Years   |
+| API Testing (Rest Assured / Postman)       | ⭐⭐⭐⭐⭐ Expert   | 5+ Years   |
+| BDD Frameworks (Cucumber)                  | ⭐⭐⭐⭐⭐ Expert   | 5+ Years   |
+| Test Framework Design & Architecture       | ⭐⭐⭐⭐⭐ Expert   | 7+ Years   |
+| CI/CD Integration for Test Pipelines       | ⭐⭐⭐⭐☆ Advanced | 4+ Years   |
+| DevOps Tooling & Infrastructure            | ⭐⭐⭐☆☆ Learning | Active     |
 
 ---
 
@@ -66,11 +67,11 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 > The following projects have been developed as part of my structured DevOps learning journey.  
 > They reflect practical, hands-on exploration and continue to evolve as my knowledge deepens.
 
-| # | Project | Description | Tech Stack |
-|---|---------|-------------|------------|
-| 1 | 🔧 [Project Name](#) | Brief description — what problem it solves | Docker, GitHub Actions |
-| 2 | 🔧 [Project Name](#) | Brief description — what problem it solves | Jenkins, Shell Script |
-| 3 | 🔧 [Project Name](#) | Brief description — what problem it solves | CI/CD Pipeline, Linux |
+| #   | Project             | Description                                | Tech Stack             |
+| --- | ------------------- | ------------------------------------------ | ---------------------- |
+| 1   | 🔧 [Project Name](#) | Brief description — what problem it solves | Docker, GitHub Actions |
+| 2   | 🔧 [Project Name](#) | Brief description — what problem it solves | Jenkins, Shell Script  |
+| 3   | 🔧 [Project Name](#) | Brief description — what problem it solves | CI/CD Pipeline, Linux  |
 
 > 📌 *Replace the above placeholders with your actual project names and repository links.*
 
@@ -80,11 +81,11 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 
 > Selected projects demonstrating test automation framework design and implementation.
 
-| # | Project | Description | Tech Stack |
-|---|---------|-------------|------------|
-| 1 | ✅ [Project Name](#) | Selenium + Java framework with POM design | Selenium, Java, Maven, TestNG |
-| 2 | ✅ [Project Name](#) | BDD automation suite with Cucumber | Cucumber, Java, Selenium |
-| 3 | ✅ [Project Name](#) | REST API test suite with reporting | Rest Assured, Java, Postman |
+| #   | Project             | Description                               | Tech Stack                    |
+| --- | ------------------- | ----------------------------------------- | ----------------------------- |
+| 1   | ✅ [Project Name](#) | Selenium + Java framework with POM design | Selenium, Java, Maven, TestNG |
+| 2   | ✅ [Project Name](#) | BDD automation suite with Cucumber        | Cucumber, Java, Selenium      |
+| 3   | ✅ [Project Name](#) | REST API test suite with reporting        | Rest Assured, Java, Postman   |
 
 > 📌 *Replace the above placeholders with your actual project names and repository links.*
 
