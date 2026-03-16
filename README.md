@@ -111,10 +111,10 @@ I am open to collaborating on projects related to:
 If you have an interesting project, an opportunity to discuss, or simply want to connect — feel free to reach out.
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/kumar05">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:manish1561988@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
