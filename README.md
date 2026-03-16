@@ -94,8 +94,8 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=0A66C2&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish12588&show_icons=true&theme=github_dark&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish12588&layout=compact&theme=github_dark&hide_border=true&title_color=0A66C2&text_color=c9d1d9" height="170" />
 </p>
 
 ---
