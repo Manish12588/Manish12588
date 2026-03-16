@@ -94,8 +94,8 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish12588&show_icons=true&theme=github_dark&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish12588&layout=compact&theme=github_dark&hide_border=true&title_color=0A66C2&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish12588&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=0A66C2&amp;icon_color=0A66C2&amp;text_color=c9d1d9" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manish12588&amp;theme=github_dark" height="170" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ I am open to collaborating on projects related to:
 If you have an interesting project, an opportunity to discuss, or simply want to connect — feel free to reach out.
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/kumar05">
+  <a href="https://linkedin.com/in/kumar05">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:manish1561988@gmail.com">
@@ -120,8 +120,3 @@ If you have an interesting project, an opportunity to discuss, or simply want to
 </p>
 
 ---
-
-<p align="center">
-  <i>"Quality is never an accident; it is always the result of intelligent effort."</i><br/>
-  <b>— John Ruskin</b>
-</p>
