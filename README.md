@@ -70,7 +70,7 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 | #   | Project             | Description                                | Tech Stack             |
 | --- | ------------------- | ------------------------------------------ | ---------------------- |
 | 1   | 🔧 [DevOps Bank App](https://github.com/Manish12588/DevOps-Bank-App/tree/main) | A fully containerized three-tier banking application | Docker, Docker-Compose, Deployment to EC2 server via GitHub Actions |
-| 2   | 🔧 [Project Name](#) | Brief description — what problem it solves | Jenkins, Shell Script  |
+| 2   | 🔧 [NoteVault](https://github.com/Manish12588/my-notes-app) | Open-source Python Flask Notes application | Fully automated commit-to-cloud deployment pipeline using Docker, Terraform, Ansible, and GitHub Actions. |
 | 3   | 🔧 [Project Name](#) | Brief description — what problem it solves | CI/CD Pipeline, Linux  |
 
 > 📌 *Replace the above placeholders with your actual project names and repository links.*
