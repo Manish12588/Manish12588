@@ -39,6 +39,15 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+### Agentic AI — In Progress 🤖
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Supporting Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,32 +71,28 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 
 ---
 
-## 🚀 DevOps Learning Projects (In Progress ....)
+## 🚀 DevOps Learning Projects
 
 > The following projects have been developed as part of my structured DevOps learning journey.  
 > They reflect practical, hands-on exploration and continue to evolve as my knowledge deepens.
 
-| #   | Project             | Description                                | Tech Stack             |
-| --- | ------------------- | ------------------------------------------ | ---------------------- |
-| 1   | 🔧 [DevOps Bank App](https://github.com/Manish12588/DevOps-Bank-App/tree/main) | A fully containerized three-tier banking application | Docker, Docker-Compose, Deployment to EC2 server via GitHub Actions |
-| 2   | 🔧 [NoteVault](https://github.com/Manish12588/my-notes-app) | Open-source Python Flask Notes application | Fully automated commit-to-cloud deployment pipeline using Docker, Terraform, Ansible, and GitHub Actions. |
-| 3   | 🔧 [Project Name](#) | Brief description — what problem it solves | CI/CD Pipeline, Linux  |
-
-> 📌 *Replace the above placeholders with your actual project names and repository links.*
+| # | Project | Description | Tech Stack |
+|---|---|---|---|
+| 1 | 🔧 [DevOps Bank App](https://github.com/Manish12588/DevOps-Bank-App) | Containerized three-tier banking application deployed via CI/CD | Docker, Docker Compose, GitHub Actions, EC2 |
+| 2 | 🔧 [NoteVault — DevSecOps Pipeline](https://github.com/Manish12588/my-notes-app) | End-to-end DevSecOps pipeline with security scanning, Docker, Terraform, Ansible | Docker, Terraform, Ansible, GitHub Actions, Trivy |
+| 3 | 🤖 [Docker AI Troubleshooter](https://github.com/Manish12588/docker-ai-troubleshooter) | AI agent that diagnoses Docker container issues using natural language | LangChain, Ollama, Python, Docker |
 
 ---
 
-## 🏗️ Automation Testing Projects (In Progress ....)
+## 🏗️ Automation Testing Projects
 
 > Selected projects demonstrating test automation framework design and implementation.
 
-| #   | Project             | Description                               | Tech Stack                    |
-| --- | ------------------- | ----------------------------------------- | ----------------------------- |
-| 1   | ✅ [Project Name](#) | Selenium + Java framework with POM design | Selenium, Java, Maven, TestNG |
-| 2   | ✅ [Project Name](#) | BDD automation suite with Cucumber        | Cucumber, Java, Selenium      |
-| 3   | ✅ [Project Name](#) | REST API test suite with reporting        | Rest Assured, Java, Postman   |
-
-> 📌 *Replace the above placeholders with your actual project names and repository links.*
+| # | Project | Description | Tech Stack |
+|---|---|---|---|
+| 1 | 🧪 [AI Self-Healing Test Automation](https://github.com/Manish12588/my-notes-app-testing) | AI agent that automatically detects and fixes broken Selenium locators | Selenium, Pytest, LangChain, Ollama, GitHub Actions, Allure |
+| 2 | ✅ [Project Name](#) | BDD automation suite with Cucumber | Cucumber, Java, Selenium |
+| 3 | ✅ [Project Name](#) | REST API test suite with reporting | Rest Assured, Java, Postman |
 
 ---
 
