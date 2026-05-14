@@ -81,7 +81,7 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 | 1 | 🔧 [DevOps Bank App](https://github.com/Manish12588/DevOps-Bank-App) | Containerized three-tier banking application deployed via CI/CD | Docker, Docker Compose, GitHub Actions, EC2 |
 | 2 | 🔧 [NoteVault — DevSecOps Pipeline](https://github.com/Manish12588/my-notes-app) | End-to-end DevSecOps pipeline with security scanning, Docker, Terraform, Ansible | Docker, Terraform, Ansible, GitHub Actions, Trivy |
 | 3 | 🤖 [Docker AI Troubleshooter](https://github.com/Manish12588/docker-ai-troubleshooter) | AI agent that diagnoses Docker container issues using natural language | LangChain, Ollama, Python, Docker |
-
+| 4 |  [Skillpulse](https://github.com/Manish12588/skillpulse) | Full-stack skill tracking app with CI/CD pipeline — GitHub Actions, Docker, AWS EC2, Self-hosted runner | HTML, Go(Gin Framework), MySql, Docker, Docker-compose, GitHub Actions, AWS EC2, Self-Hosted Runner |
 ---
 
 ## 🏗️ Automation Testing Projects
