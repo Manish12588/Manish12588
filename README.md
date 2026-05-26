@@ -91,7 +91,7 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 | # | Project | Description | Tech Stack |
 |---|---|---|---|
 | 1 | 🧪 [AI Self-Healing Test Automation](https://github.com/Manish12588/my-notes-app-testing) | AI agent that automatically detects and fixes broken Selenium locators | Selenium, Pytest, LangChain, Ollama, GitHub Actions, Allure |
-| 2 | ✅ [Project Name](#) | BDD automation suite with Cucumber | Cucumber, Java, Selenium |
+| 2 | 🤖 [qa-test-generator-agent](https://github.com/Manish12588/qa-test-generator-agent) | AI agent that auto-generates functional test cases for REST APIs using a local LLM (Ollama + Qwen2.5). No API keys needed. | Python, Rest-API, langchain, ollama, agentic-AI|
 | 3 | ✅ [Project Name](#) | REST API test suite with reporting | Rest Assured, Java, Postman |
 
 ---
