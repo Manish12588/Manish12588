@@ -71,6 +71,16 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 
 ---
 
+## 🏗️ Automation Testing Projects
+
+> Selected projects demonstrating test automation framework design and implementation.
+
+| # | Project | Description | Tech Stack |
+|---|---|---|---|
+| 1 | 🧪 [AI Self-Healing Test Automation](https://github.com/Manish12588/my-notes-app-testing) | AI agent that automatically detects and fixes broken Selenium locators | Selenium, Pytest, LangChain, Ollama, GitHub Actions, Allure |
+| 2 | 🤖 [qa-test-generator-agent](https://github.com/Manish12588/qa-test-generator-agent) | AI agent that auto-generates functional test cases for REST APIs using a local LLM (Ollama + Qwen2.5). No API keys needed. | Python, Rest-API, langchain, ollama, agentic-AI|
+| 3 | 🧪 [POM_SE_TESTNG_FW](https://github.com/Manish12588/2026POMSeries) | Selenium + TestNG UI automation framework (POM) with cross-browser Selenium Grid execution, Allure & ChainTest reporting, full Maven lifecycle with Nexus artifact deploy, and a Jenkins CI/CD pipeline | Selenium, TestNG, Java, Maven, Jenkins, Docker, Allure, Nexus |
+
 ## 🚀 DevOps Learning Projects
 
 > The following projects have been developed as part of my structured DevOps learning journey.  
@@ -83,17 +93,6 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 | 3 | 🤖 [Docker AI Troubleshooter](https://github.com/Manish12588/docker-ai-troubleshooter) | AI agent that diagnoses Docker container issues using natural language | LangChain, Ollama, Python, Docker |
 | 4 |  [Skillpulse](https://github.com/Manish12588/skillpulse) | Full-stack skill tracking app with CI/CD pipeline — GitHub Actions, Docker, AWS EC2, Self-hosted runner | HTML, Go(Gin Framework), MySql, Docker, Docker-compose, GitHub Actions, AWS EC2, Self-Hosted Runner |
 ---
-
-## 🏗️ Automation Testing Projects
-
-> Selected projects demonstrating test automation framework design and implementation.
-
-| # | Project | Description | Tech Stack |
-|---|---|---|---|
-| 1 | 🧪 [AI Self-Healing Test Automation](https://github.com/Manish12588/my-notes-app-testing) | AI agent that automatically detects and fixes broken Selenium locators | Selenium, Pytest, LangChain, Ollama, GitHub Actions, Allure |
-| 2 | 🤖 [qa-test-generator-agent](https://github.com/Manish12588/qa-test-generator-agent) | AI agent that auto-generates functional test cases for REST APIs using a local LLM (Ollama + Qwen2.5). No API keys needed. | Python, Rest-API, langchain, ollama, agentic-AI|
-| 3 | ✅ [Project Name](#) | REST API test suite with reporting | Rest Assured, Java, Postman |
-
 ---
 
 ## 📈 GitHub Statistics
