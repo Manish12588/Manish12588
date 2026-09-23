@@ -73,7 +73,7 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 
 ## 🏗️ Automation Testing Projects
 
-> Selected projects demonstrating test automation framework design and implementation.
+> Selected projects demonstrating test automation framework design and implementation. Build badges reflect the live CI status of each repo.
 
 | # | Project | Description | Tech Stack |
 |---|---|---|---|
@@ -92,18 +92,14 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 | 2 | 🔧 [NoteVault — DevSecOps Pipeline](https://github.com/Manish12588/my-notes-app) | End-to-end DevSecOps pipeline with security scanning, Docker, Terraform, Ansible | Docker, Terraform, Ansible, GitHub Actions, Trivy |
 | 3 | 🤖 [Docker AI Troubleshooter](https://github.com/Manish12588/docker-ai-troubleshooter) | AI agent that diagnoses Docker container issues using natural language | LangChain, Ollama, Python, Docker |
 | 4 |  [Skillpulse](https://github.com/Manish12588/skillpulse) | Full-stack skill tracking app with CI/CD pipeline — GitHub Actions, Docker, AWS EC2, Self-hosted runner | HTML, Go(Gin Framework), MySql, Docker, Docker-compose, GitHub Actions, AWS EC2, Self-Hosted Runner |
----
+
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Manish12588&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manish12588&theme=github_dark"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Manish12588&theme=github-dark-blue&hide_border=true"
     height="170"
   />
 </p>
