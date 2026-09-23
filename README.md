@@ -1,22 +1,22 @@
 <h1 align="center">Hi, I'm Manish Kumar</h1>
 
 <p align="center">
-  <b>Automation Test Engineer &nbsp;|&nbsp; 13+ Years in Quality Engineering &nbsp;|&nbsp; Aspiring DevOps Practitioner</b>
+  <b>SDET / Automation Test Engineer &nbsp;|&nbsp; 8+ Years in Test Automation &nbsp;|&nbsp; Aspiring DevOps Practitioner</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=13%2B+Years+in+Software+Test+Automation;Selenium+%7C+Playwright+%7C+Rest+Assured+%7C+Cucumber;Expanding+into+DevOps+%F0%9F%9B%A0%EF%B8%8F;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=16+Years+in+Software+Testing%2C+8%2B+in+Automation;Selenium+%7C+Playwright+%7C+Rest+Assured+%7C+Cucumber;Expanding+into+DevOps+%F0%9F%9B%A0%EF%B8%8F;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I am a dedicated **Automation Test Engineer** with over **13 years of hands-on experience** in the software testing domain. Throughout my career, I have designed and delivered scalable test automation frameworks, driven quality assurance strategies, and contributed to the successful delivery of complex software projects across multiple domains.
+I am a dedicated **SDET / Automation Test Engineer** with **16 years in software testing**, including **8+ years of hands-on test automation** (Selenium, Playwright, TestNG, REST API/Rest-Assured) with CI/CD pipeline integration. Throughout my career, I have designed and delivered scalable test automation frameworks — including one that cut regression execution time from 14 hours to 4 hours — driven quality assurance strategies, and contributed to complex software projects across UK Government, US, and German banking domains.
 
 I am currently broadening my expertise into **DevOps practices** — working through real-world projects covering CI/CD pipelines, containerisation, and infrastructure tooling. My goal is to leverage my deep quality engineering background to contribute effectively across the full software delivery lifecycle.
 
-- 🏆 **13+ years** of experience in Manual & Automation Testing
+- 🏆 **16 years** in software testing, **8+ years** hands-on in test automation
 - 🔧 Currently building practical **DevOps projects** to complement my QA expertise
 - 🌱 Actively learning **Docker**, **CI/CD**, **Jenkins**, **GitHub Actions**, and **Linux**
 - 🤝 Open to **collaboration** on automation frameworks, DevOps tooling, and quality engineering
@@ -61,7 +61,7 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 
 | Domain                                     | Proficiency    | Experience |
 | ------------------------------------------ | -------------- | ---------- |
-| Functional Testing                         | ⭐⭐⭐⭐⭐ Expert   | 13+ Years  |
+| Functional Testing                         | ⭐⭐⭐⭐⭐ Expert   | 16 Years   |
 | UI Test Automation (Selenium / Playwright) | ⭐⭐⭐⭐⭐ Expert   | 5+ Years   |
 | API Testing (Rest Assured / Postman)       | ⭐⭐⭐⭐⭐ Expert   | 5+ Years   |
 | BDD Frameworks (Cucumber)                  | ⭐⭐⭐⭐⭐ Expert   | 5+ Years   |
