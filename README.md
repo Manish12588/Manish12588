@@ -8,13 +8,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=16+Years+in+Software+Testing%2C+8%2B+in+Automation;Selenium+%7C+Playwright+%7C+Rest+Assured+%7C+Cucumber;Expanding+into+DevOps+%F0%9F%9B%A0%EF%B8%8F;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  🟢 <b>Actively interviewing for Senior SDET / Automation Test Engineer roles in Germany</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kumar05">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:manish1561988@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Manish12588/resume/blob/main/ManishKumar_SDET.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+  </a>
+</p>
+
+### 📑 Quick Links
+[Summary](#-professional-summary) · [Skills](#️-technical-skills) · [Expertise](#-areas-of-expertise) · [Projects](#️-automation-testing-projects) · [Stats](#-github-statistics) · [Contact](#-open-to-collaboration--opportunities)
+
 ---
 
 ## 👨‍💻 Professional Summary
 
 I am a dedicated **SDET / Automation Test Engineer** with **16 years in software testing**, including **8+ years of hands-on test automation** (Selenium, Playwright, TestNG, REST API/Rest-Assured) with CI/CD pipeline integration. Throughout my career, I have designed and delivered scalable test automation frameworks — including one that cut regression execution time from 14 hours to 4 hours — driven quality assurance strategies, and contributed to complex software projects across UK Government, US, and German banking domains.
 
-I am currently broadening my expertise into **DevOps practices** — working through real-world projects covering CI/CD pipelines, containerisation, and infrastructure tooling. My goal is to leverage my deep quality engineering background to contribute effectively across the full software delivery lifecycle.
+I'm currently broadening into **DevOps practices** (CI/CD, containerisation, infrastructure tooling) to contribute across the full software delivery lifecycle.
 
 - 🏆 **16 years** in software testing, **8+ years** hands-on in test automation
 - 🔧 Currently building practical **DevOps projects** to complement my QA expertise
@@ -83,15 +102,14 @@ I am currently broadening my expertise into **DevOps practices** — working thr
 
 ## 🚀 DevOps Learning Projects
 
-> The following projects have been developed as part of my structured DevOps learning journey.  
-> They reflect practical, hands-on exploration and continue to evolve as my knowledge deepens.
+> Hands-on projects from my structured DevOps learning journey — evolving as my skills deepen.
 
 | # | Project | Description | Tech Stack |
 |---|---|---|---|
-| 1 | 🔧 [DevOps Bank App](https://github.com/Manish12588/DevOps-Bank-App) | Production-grade banking app demonstrating full DevOps lifecycle — CI/CD, Terraform, Ansible, Kubernetes EKS, ArgoCD GitOps, Prometheus, Grafana, Loki on AWS | Docker, Docker Compose, Kubernetes, terraform, ansible, grafana, GitHub Actions, EC2 |
-| 2 | 🔧 [NoteVault — DevSecOps Pipeline](https://github.com/Manish12588/my-notes-app) | End-to-end DevSecOps pipeline with security scanning, Docker, Terraform, Ansible | Docker, Terraform, Ansible, GitHub Actions, Trivy |
-| 3 | 🤖 [Docker AI Troubleshooter](https://github.com/Manish12588/docker-ai-troubleshooter) | AI agent that diagnoses Docker container issues using natural language | LangChain, Ollama, Python, Docker |
-| 4 |  [Skillpulse](https://github.com/Manish12588/skillpulse) | Full-stack skill tracking app with CI/CD pipeline — GitHub Actions, Docker, AWS EC2, Self-hosted runner | HTML, Go(Gin Framework), MySql, Docker, Docker-compose, GitHub Actions, AWS EC2, Self-Hosted Runner |
+| 1 | 🔧 [DevOps Bank App](https://github.com/Manish12588/DevOps-Bank-App) | Full DevOps lifecycle demo — CI/CD, Terraform, Kubernetes EKS, ArgoCD, Prometheus/Grafana on AWS | Docker, Kubernetes, Terraform, Ansible, Grafana, GitHub Actions, EC2 |
+| 2 | 🔧 [NoteVault — DevSecOps Pipeline](https://github.com/Manish12588/my-notes-app) | End-to-end DevSecOps pipeline with security scanning | Docker, Terraform, Ansible, GitHub Actions, Trivy |
+| 3 | 🤖 [Docker AI Troubleshooter](https://github.com/Manish12588/docker-ai-troubleshooter) | AI agent diagnosing Docker container issues via natural language | LangChain, Ollama, Python, Docker |
+| 4 | [Skillpulse](https://github.com/Manish12588/skillpulse) | Full-stack skill tracker with CI/CD — GitHub Actions, Docker, AWS EC2, self-hosted runner | Go (Gin), MySQL, Docker, GitHub Actions, AWS EC2 |
 
 ---
 
