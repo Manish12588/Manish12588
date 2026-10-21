@@ -22,6 +22,9 @@
   <a href="https://github.com/Manish12588/resume/blob/main/ManishKumar_SDET.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge&logo=readdotcv&logoColor=white"/>
   </a>
+  <a href="https://manish12588.github.io/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VIEW-8957E5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=444" alt="Portfolio" />
+  </a>
 </p>
 
 ### 📑 Quick Links
