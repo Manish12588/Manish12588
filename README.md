@@ -25,7 +25,7 @@
 </p>
 
 ### 📑 Quick Links
-[Summary](#-professional-summary) · [Skills](#️-technical-skills) · [Expertise](#-areas-of-expertise) · [Projects](#️-automation-testing-projects) · [Stats](#-github-statistics) · [Contact](#-open-to-collaboration--opportunities)
+[Summary](#-professional-summary) · [Skills](#️-technical-skills) · [Expertise](#-areas-of-expertise) · [Projects](#️-automation-testing-projects) · [Portfolio](#-portfolio) · [Stats](#-github-statistics) · [Contact](#-open-to-collaboration--opportunities)
 
 ---
 
